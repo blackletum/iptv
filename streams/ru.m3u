@@ -1545,7 +1545,7 @@ http://str2.iptvhd.ru:8080/NTV_Mir/index.m3u8
 http://str2.iptvhd.ru:8080/ntvstyle/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru@SD",TERRA (1080p)
 http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8
-#EXTINF:-1 tvg-id="Avto24.ru@SD",Avto24 (576p)
+#EXTINF:-1 tvg-id="Avto24.ru@SD",Avto24 (1080i)
 http://str2.iptvhd.ru:8080/Avto_24/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD",Travel+Adventure HD (1080p)
 http://str2.iptvhd.ru:8080/Travel_Adventure_HD/index.m3u8
@@ -1695,3 +1695,19 @@ http://88.212.15.19/live/test_bober/playlist.m3u8
 http://88.212.15.19/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Russia-24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru@SD",Novorossiya TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/novoros/index.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru@SD",Oplot TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/oplot_hd/index.m3u8
+#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD",6 TV Gorlovka (720p) [Geo-blocked]
+http://91.214.48.158:4022/udp/224.2.2.4:10000
+#EXTINF:-1 tvg-id="TNTInternational.ru@Belarus",TNT International Belarus (1080p)
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
+#EXTINF:-1 tvg-id="YaltaTV.ru@SD",Yalta TV (480p) [Geo-blocked]
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1 tvg-id="SetantaSports1.ru@HD",Setanta Sports 1 HD
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Channel8International.ru@SD",Channel 8 International (576p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
