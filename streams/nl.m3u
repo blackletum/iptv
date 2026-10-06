@@ -432,6 +432,10 @@ https://video.uitzending.tv:19360/zo34/zo34.m3u8
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD",FightBox HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="NPO1.nl@HD",NPO 1 HD (720p) [Geo-blocked]
+https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
+#EXTINF:-1 tvg-id="NPO2.nl@HD",NPO 2 HD (720p) [Geo-blocked]
+https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8
 #EXTINF:-1 tvg-id="NPO3.nl@HD",NPO 3 HD (720p) [Geo-blocked]
 https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Slovakia",Canal+ Action Europe Slovakia (720p)
@@ -443,3 +447,5 @@ http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsScandinavia.nl@SD",Nicktoons Scandinavia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.nl@HD",Disney Channel HD (1080i)
+https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8

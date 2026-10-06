@@ -342,8 +342,6 @@ https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
 http://88.212.15.19/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="SkyMix.uk@HD",Sky Mix HD (720p)
 http://188.138.29.131/skymix/index.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk@SD",Alb UK TV (1080p)
-http://5.254.89.106/8794/index.m3u8
 #EXTINF:-1 tvg-id="SangatTV.uk@SD",Sangat TV (576p)
 https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America (576p)
@@ -436,3 +434,29 @@ https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
 https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD
 https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV Latin America (1080p)
+http://38.44.109.41:8003/play/a0eh
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland",BBC Earth (1080p)
+http://57.128.231.171:8080/307/index.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.uk@Poland",BBC Brit (1080p)
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland",BBC Lifestyle Poland (1080p)
+http://57.128.231.171:8080/305/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales",BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s (576p)
+https://web-primeprimetv2026.onrender.com/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug Kids
+https://xyktmobile00.s.gy/TICK_44445
+#EXTINF:-1 tvg-id="StarPlus.uk@SD",StarPlus (576p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD",Brit Asia TV (576p)
+http://51.75.127.199:3141/britasia/index.m3u8
+#EXTINF:-1 tvg-id="GODTV.uk@SD",GOD TV (576p)
+https://cdn.pishow.tv/ott/live/1391/master.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk@LondonPlus1",ITV1 London +1
+https://xyktmobile00.s.gy/TICK_44100
+#EXTINF:-1 tvg-id="StarBharat.uk@SD",Star Bharat (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland",BBC Two Northern Ireland
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
