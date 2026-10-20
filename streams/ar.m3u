@@ -314,10 +314,6 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVTelevision.ar@SD",TIV Television (720p)
 https://videohd.live:19360/8008/8008.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD",TN (1080p)
-http://15.204.246.24:8080/TNHD/index.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD",TN (1080p)
-http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCanal72.ar@SD",TV Canal 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaArgentina.ar@SD",TV Maná Argentina (576p) [Not 24/7]
@@ -412,8 +408,6 @@ https://ntvcanal7.com.ar:81/dash/stream.mpd
 http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (1080p)
 http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar@SD",El Trece Internacional Latin America (1080p)
-http://200.7.99.59:8000/play/a0gm/index.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar@SD",Plim Plim (1080p)
 http://45.70.168.162:1503/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD",Europa Europa (1080p)
@@ -436,8 +430,6 @@ https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 http://190.128.214.97:64333/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar@SD",Encuentro (720p)
 http://190.128.214.97:64333/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar@SD",Cronica TV (1080p)
-http://190.128.214.97:64333/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar@SD",MusicTop (1080p)
 http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="RockPop.ar@SD",Rock & Pop (1080p)
@@ -464,11 +456,29 @@ http://190.128.214.97:64333/play/a008/index.m3u8
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar@HD",ESPN Premium HD (1080p)
-http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD",Disney Channel Latin America Panregional HD (1080p)
 http://138.59.227.20:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 #EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD",TV Publica Marcos Paz (720p)
 https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South",Disney Channel Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
+#EXTINF:-1 tvg-id="Space.ar@South",Space South (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD",TN (1080p)
+http://158.172.155.130:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD",Quiero Musica en mi Idioma (1080p)
+http://158.172.155.130:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="AllegroHD.ar@SD",Allegro HD (1080p)
+http://158.172.155.130:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
+http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar@SD",DeporTV (1080p)
+http://158.172.155.130:8000/play/a09y/index.m3u8
+#EXTINF:-1 tvg-id="VIVETV.ar@HD",VIVE TV (1080p)
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+#EXTINF:-1 tvg-id="TelePosadas.ar@SD",Tele Posadas SD (576p) [Not 24/7]
+https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8

@@ -229,8 +229,6 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="NTV.tr@SD",NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr@SD",Number 1 Ask (720p)
@@ -439,3 +437,17 @@ http://193.123.61.120:3000/kanal/bloomberght
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD",TRT World (576p)
 https://cdn.pishow.tv/ott/live/266/master.m3u8
+#EXTINF:-1 tvg-id="TurksatTanitim.tr@SD",Turksat Tanitim (1080p) [Geo-blocked]
+http://176.65.153.26:6004/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD",beIN Sports 1 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="beINSports2Turk.tr@SD",beIN Sports 2 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="beINSports3Turk.tr@SD",beIN Sports 3 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="beINSports4Turk.tr@SD",beIN Sports 4 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="beINSports5Turk.tr@SD",beIN Sports 5 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr@SD",beIN Sports Haber
+https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
