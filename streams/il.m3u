@@ -56,8 +56,6 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-id="ShelanuTV.il@SD",Shelanu TV (720p)
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 tvg-id="TeenNick.il@SD",TeenNick [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="YamTichoni.il@SD",Yam Tichoni (1080p)
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="YesMoviesAction.il@SD",Yes Movies Action (1080p)
@@ -82,10 +80,6 @@ http://89.33.29.115:8080/Health/index.m3u8
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="5Plus.il@SD",5Plus (1080p)
 http://89.33.29.115:8080/sportplus/index.m3u8
-#EXTINF:-1 tvg-id="Sport3.il@SD",Sport 3 (1080p)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
-#EXTINF:-1 tvg-id="Sport4.il@SD",Sport 4 (1080p)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 #EXTINF:-1 tvg-id="5Stars.il@SD",5Stars (1080p)
 http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.il@SD",Comedy Channel (1080p)
